@@ -1,0 +1,9 @@
+Variables:Una variable es un nombre utilizado para representar el valor de un dato dentro del programa
+
+String: Un String es un tipo de datos que contiene una cadena de texto
+
+Funcion: Las funciones son statements que se utilizan para realizar operaciones y devolver datos especificos, pueden recibir parametros y retornan la informacion cuando leen el comando return
+
+If:Una declaración if lee una expresión y ejecuta un bloque de codigo si es verdadera u otro bloque de codigo si esta es falsa
+
+Booleanos:Los valores booleanos son un tipo de dato que solo puede tomar 2 valores, verdadero o falso, estos valores obtienen su nombre del Algebra de Boole
